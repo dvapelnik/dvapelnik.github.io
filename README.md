@@ -1,3 +1,4 @@
 # Dmitry Vapelnik's simple blog on GitHub
 
-[2017-02-08] [Bash completions with brew and other](/2017/02/080.md)
+- [2017-02-08] [Pretty git log format](/2017/02/081.md)
+- [2017-02-08] [Bash completions with brew and other](/2017/02/080.md)
