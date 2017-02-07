@@ -1,3 +1,7 @@
+---
+title: Dmitry Vapelnik
+---
+
 # Simple blog like a list of my own notes
 
 - [2017-02-08] [Pretty git log format](/2017/02/081.md)
