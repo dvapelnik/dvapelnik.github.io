@@ -1,6 +1,6 @@
 # Top
 
-- [Userful links](/articles/useful-links.md)
+- [Useful links](/articles/useful-links.md)
 
 # Simple blog like a list of my own notes
 
